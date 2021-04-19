@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to tobru's GitHub space 👋
+
+Please subscribe to my newsletter if you want to get regular news from the Cloud Native world straight to your inbox.
+Head over to [tobru.ch](https://tobru.ch/about-newsletter/) to subscribe.
 
 <!--
 **tobru/tobru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
